@@ -1,6 +1,6 @@
 # Greedy
 
-##problems based on greedy algorithms.
+## problems based on greedy algorithms.
 
 #### 1) You are going to travel to another city that is located d miles away from your home city. Your car can travel at most m miles on a full tank and you start with a full tank. Along your way, there are gas stations at distances stop1 , stop2 , . . . , stopn from your home city. What is the minimum number of refills needed?
 
